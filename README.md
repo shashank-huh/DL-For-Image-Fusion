@@ -3,9 +3,10 @@
 ### L3 Heading
 
 **Text in Bold**
+
 *Text in Italic*
 
-##Colors
+## Colors
 *Red
 *Blue
 *Green
