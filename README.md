@@ -7,9 +7,9 @@
 *Text in Italic*
 
 ## Colors
-*Red
-*Blue
-*Green
+* Red
+* Blue
+* Green
 
 `mkdir`
 
